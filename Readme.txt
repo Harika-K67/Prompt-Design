@@ -1,0 +1,5 @@
+Assignment 1 :
+  Prompt 1 gave a lengthy summary that can be harder to digest and this was better with prompt 2 and 3 as we instructed them to limit the summary to a particular number of lines.While both prompt 2 and prompt 3 do a better job than prompt 1 which lacked any direction, prompt 3 works better to add the context needed for the news to be able to better get through a larger audience and can be considered the best performing prompt of the three.
+
+Assignment 2:
+  In both Generic and Role based prompts, we can observe that the review looks similar but there is difference in tone as the role based on stronger business tone than the the generic prompt.The generic prompt provided a vague analysis where as the role based focused and have figures relevant based on the guidelines provided in the prompt. This extra information provided using role based prompt can be much more helpful in making decisions quicker. 
